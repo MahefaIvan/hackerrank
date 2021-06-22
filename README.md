@@ -1,2 +1,2 @@
 # hackerrank
-hackerrank challenges solutions in c++ programing language
+hackerrank challenges solutions in c++ language
